@@ -1,0 +1,50 @@
+.head {
+    background-color: blue;
+    width: 2500px;
+    height: 308px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
+.head h2 {
+    padding-left: 60px;
+    color: bisque;
+}
+
+.gallery {
+    display: flex;
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+.gallery p {
+    width: 443px;
+    height: 125px;
+    background-color:#ffffff7d ;
+    bottom: 150px;
+    position: relative;
+    border-radius: 20px;
+}
+.second p {
+    margin-left: 55px;
+    margin-top: 5px;
+}
+.part  {
+    padding-left: 60px;
+    padding-top: 200px;
+    width: 200px;
+}
+
+.company {
+    display: inline-block;
+    padding-left: 500px;
+    position: relative;
+   
+    
+}
+.company1 {
+    display: inline-block;
+    padding-left: 530px;
+    
+}
